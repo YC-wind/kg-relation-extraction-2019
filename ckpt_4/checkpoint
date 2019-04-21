@@ -1,0 +1,5 @@
+model_checkpoint_path: "ner.ckpt-21600"
+all_model_checkpoint_paths: "ner.ckpt-19200"
+all_model_checkpoint_paths: "ner.ckpt-19800"
+all_model_checkpoint_paths: "ner.ckpt-20400"
+all_model_checkpoint_paths: "ner.ckpt-21600"

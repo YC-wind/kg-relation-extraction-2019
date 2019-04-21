@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+.DS_Store
+__pycache__/*.*
+ckpt*/*.*
+train_data*/*.*
+data/*.*
+
+ckpt_5/

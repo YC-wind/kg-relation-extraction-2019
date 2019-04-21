@@ -1,0 +1,4 @@
+model_checkpoint_path: "ner.ckpt-4800"
+all_model_checkpoint_paths: "ner.ckpt-2400"
+all_model_checkpoint_paths: "ner.ckpt-3300"
+all_model_checkpoint_paths: "ner.ckpt-4800"
